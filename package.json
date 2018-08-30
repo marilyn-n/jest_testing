@@ -1,0 +1,17 @@
+{
+  "name": "jest-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^23.5.0",
+    "jest-expect-message": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC"
+}
